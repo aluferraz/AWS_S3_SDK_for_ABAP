@@ -1,6 +1,6 @@
 # S3 for SAP – AWS S3 SDK for ABAP
 
-AWS S3 for ABAP is an ABAP AddOn wich enables native integration from ABAP to AWS S3. You will be able to manage buckets, folders and files on AWS S3. It has two editions: Community and Commercial.
+AWS S3 for ABAP is an ABAP AddOn wich enables native integration from ABAP to AWS S3. You will be able to manage buckets, folders and files on AWS S3. It has two editions: Community and Enterprise.
 
 The AddOn has been developed under reserved namepace /RS3/. For this reason it is guaranteed no collision will happen with any standard object, nor with customer namespace objects. 
 
