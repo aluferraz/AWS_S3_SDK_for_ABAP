@@ -6,7 +6,7 @@ The AddOn has been developed under reserved namepace /RS3/. For this reason it i
 
 The Community Edition is the ABAP SDK which you can use as a tool to write your own programs to read from AWS S3 and write to AWS S3. Demo programs are provided as a reference.
 
-The Commercial Edition (complete solution) maps from ArchiveLink to AWS S3. In this way you can use S3 as a Content Server. As well you can make use of the ABAP SDK to develop your own programs.
+The Enterprise Edition (complete solution) maps from ArchiveLink to AWS S3. In this way you can use S3 as a Content Server. As well you can make use of the ABAP SDK to develop your own programs.
 
 AWS S3 for SAP runs on any SAP Netweaver 7.0 (SAP_BASIS 700 0028 SAPKB70028) or higher. It only depends on BASIS package, so you can use it in ERP, CRM, SRM, etc...
 
